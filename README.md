@@ -41,7 +41,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[64 Robots](https://64robots.com)**
 - **[Curotec](https://www.curotec.com/services/technologies/laravel)**
 - **[DevSquad](https://devsquad.com/hire-laravel-developers)** 
-- **[Redberry](https://redberry.international/laravel-development)**
+- **[Redberry](https://redberry.international/laravel-development)** 
 - **[Active Logic](https://activelogic.com)**
 
 ## Contributing
